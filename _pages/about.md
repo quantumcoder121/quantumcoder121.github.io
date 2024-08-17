@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! This is Aditya Kudre, an [IIT Bombay](https://en.wikipedia.org/wiki/IIT_Bombay) graduate in [Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering) with a deep passion for Machine Learning and other technologies. You are looking at my webpage right now! Feel free to provide any suggestions through the [Feedback Form](https://forms.gle/7epvZ7EqNfPkbAL27).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Most of my technical interests are in Machine Learning which includes Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning and Explainable AI. Some other interests include Computer Architecture (proud [RISC](https://www.arm.com/glossary/risc) fan!) and Computer Networks. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from all the tech stuff, I'm an avid Anime fan and would love to hear any [Anime recommendation](https://forms.gle/7zQ22j5jKN1yfT2q6) from you! My favorite genre include Fantasy, Action and Adventure. Have a look at my Anime list here!
+
+Check out my [blog on Machine Learning](/blog/).

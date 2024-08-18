@@ -75,3 +75,7 @@ Now we come to a very useful result in probability that was discovered by [Thoma
 
 > ##### *THOEREM*
 > For two events $$A$$ and $$B$$, $$P[A \| B] = \frac{P[B \| A] \cdot P[A]}{P[B]}$$
+
+## Concluding Remarks
+
+That's all for today's blog post. We learnt about the basics of probability today and also looked at some interesting results and concepts and also the Bayes' Theorem. In the next blog post, we'll look at _Random Variables_.

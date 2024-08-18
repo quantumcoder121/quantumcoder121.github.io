@@ -306,7 +306,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["machine-learning", "mathematics"] # these tags will be displayed on the front page of your blog
-display_categories: ["basic-machine-learning"] # these categories will be displayed on the front page of your blog
+display_categories: ["basic-machine-learning", "math-for-ml"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
